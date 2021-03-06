@@ -30,5 +30,7 @@ last_modified_at: "2021-03-01 10:19:00 +0900"
 
 - ### Mensa Quant(2021~)
 
+
+
 # Blog History
 <span style="font-size: 20px;font-weight: bold;">Since:</span><span> 2021-02-27 </span>
