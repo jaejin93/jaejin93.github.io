@@ -1,7 +1,7 @@
 ---
 title: "Meta-Learning:Learning to Learn Fast"
 categories: 
-  - AI
+  - DeepLearning
 last_modified_at: 2021-03-21
 toc: false #Table of Contents
 comments: true
