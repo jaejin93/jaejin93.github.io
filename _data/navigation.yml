@@ -4,7 +4,7 @@ main:
   - title: "Algorithm"
     url: /Algorithm/
   - title: "Statistics"
-    url: /Arithmetic/
+    url: /Statistics/
   - title: "DeepLearning"
     url: /DeepLearning/
   #- title: "Architecture"
