@@ -7,8 +7,8 @@ author_profile: true
 date: "2021-02-27 18:47:00 +0900"
 last_modified_at: "2021-03-01 10:19:00 +0900"
 ---
-건축공학과를 졸업하고 건설IT연구실에서 석사과정을 진행하고 있으며 책임과 의무가 아닌 호기심을 동기로 Algorithm과 Statistics, Deep Learning을 주제로 다룹니다. 
 
+**건축공학과를 졸업하고 건설IT연구실에서 석사과정을 진행하고 있으며 책임과 의무가 아닌 호기심을 동기로 Algorithm과 Statistics, Deep Learning을 주제로 다룹니다. **
 
 
 # Curriculum Vitae
