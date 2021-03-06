@@ -3,12 +3,12 @@ main:
     url: /about/#page #-title
   - title: "Algorithm"
     url: /Algorithm/
-  - title: "Arithmetic"
+  - title: "Statistics"
     url: /Arithmetic/
-  - title: "AI"
-    url: /AI/
-  - title: "Architecture"
-    url: /Architecture/
+  - title: "DeepLearning"
+    url: /DeepLearning/
+  #- title: "Architecture"
+  #  url: /Architecture/
   - title: "All Posts"
     url: /categories/
     
