@@ -7,8 +7,8 @@ main:
     url: /Statistics/
   - title: "DeepLearning"
     url: /DeepLearning/
-  #- title: "Architecture"
-  #  url: /Architecture/
+  - title: "Stock"
+    url: /Stock/
   - title: "All Posts"
     url: /categories/
     
