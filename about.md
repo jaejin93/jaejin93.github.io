@@ -28,7 +28,7 @@ last_modified_at: "2021-03-01 10:19:00 +0900"
 
 - ### 대우건설 NLP프로젝트(2020)
 
-- ### Mensa Quant(2021~)
+- ### Mensa Quant Study(2021~)
 
 
 
