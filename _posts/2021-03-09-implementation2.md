@@ -81,7 +81,7 @@ d[x][y] = 1
 #전체 맵 정보를 입력받기
 array = []
 for i in range(n):
-    array.append(list(map(int,input().split()))
+    array.append(list(map(int,input().split())))
    
 # 북,동,남,서 방향 정의
 dx = [-1,0,1,0]
