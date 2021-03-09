@@ -78,6 +78,11 @@ x,y,direction = map(int,input().split())
 #현재 방문 좌표 방문 처리
 d[x][y] = 1
 
+#전체 맵 정보를 입력받기
+array = []
+for i in range(n):
+    array.append(list(map(int,input().split()))
+   
 # 북,동,남,서 방향 정의
 dx = [-1,0,1,0]
 dy = [0,1,0,-1]
@@ -86,8 +91,8 @@ dy = [0,1,0,-1]
 def turn_left():
     global direction
     direction -= 1
-    if dirction == -1:
-        dirction = 3 #북쪽 -1은 서쪽이고 이는 3과 같다.
+    if direction == -1:
+        direction = 3 #북쪽 -1은 서쪽이고 이는 3과 같다.
 
 #시뮬레이션 시작
 count = 1
