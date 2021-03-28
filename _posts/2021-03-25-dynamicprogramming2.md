@@ -26,6 +26,9 @@ use_math: true # MathJax On
 #### 접근 방법
 
 다이나믹 프로그래밍 문제이다. 그림으로 이해하면 좋은데, 다음은 X=6일 때, 함수가 호출되는 과정이다.
+<br>
+<center><img src="/assets/images/dynamicprogramming2_1.jpg" width="500" ></center>
+<br>
 
 해당 내용을 점화식으로 표현하면 다음 식과 같고, 점화식 끝에 1을 더해주는 이유는 함수의 호출 횟수를 구해야 하기 때문이다.<br>
 $$a_i = min(a_{i-1},a_{i/2},a_{i/3},a_{i/5}) + 1$$
