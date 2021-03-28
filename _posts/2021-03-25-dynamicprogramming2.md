@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Programming "
+title: "Dynamic Programming 적용문제"
 categories: 
   - Algorithm
   - Dynamic Programming
