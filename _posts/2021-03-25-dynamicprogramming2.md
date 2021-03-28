@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Programming 개념"
+title: "Dynamic Programming "
 categories: 
   - Algorithm
   - Dynamic Programming
